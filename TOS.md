@@ -4,7 +4,7 @@ Last Updated: June 20, 2026
 
 ## Acceptance
 
-By inviting or using Mochi, you agree to these Terms of Service.
+By inviting or using Zexn, you agree to these Terms of Service.
 
 If you do not agree, do not use the bot.
 
